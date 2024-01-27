@@ -1,4 +1,6 @@
-This program is a simple Human Resources application for managing employees' personal and business information. You can use it to register and edit salaried or hourly employees and the data is permanently saved in a text file.
+# Assignment-Human-resources-management-GUI
+
+This program is a simple human resources management application for managing employees' personal and business information. You can use it to register and edit salaried or hourly employees and the data is permanently saved in a text file.
 
 It was created using Visual Studio 2019's Windows Forms project template, for a module that tested our ability to develop an application of moderate complexity by applying object-oriented programming concepts, techniques and constructs.
 
